@@ -6,7 +6,7 @@ Melaksanakan ibadah haji dan umroh adalah momen sakral yang tentu menjadi impian
 
 <div align = center>
     
-[![Button Shield]][Shield]
+[![Button SI]][Link SI]
 
 <br>
 <br>
@@ -42,12 +42,9 @@ Belanja Di Sini
     
 <!---------------------------------[ Bagian Single Image ]---------------------------------->
 
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
+[Button SI]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
+[Link SI]: #
 
-[License]: LICENSE
-[Shield]: Types/Shield.md
-[KBD]: Types/KBD.md
-[#]: #
 
 <!---------------------------------[ Bagian Logo dan Link ]---------------------------------->
 
