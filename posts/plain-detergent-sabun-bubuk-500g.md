@@ -17,3 +17,5 @@ Dengan formula yang efektif, Alkholisi Deterjen Bubuk mampu mengangkat kotoran d
 Selain itu, produk ini juga hemat digunakan, karena dosisnya yang pas untuk kebutuhan mencuci dalam jumlah banyak, cocok untuk Anda yang ingin mencuci pakaian dalam jumlah banyak selama di tanah suci. Dengan Alkholisi Deterjen Bubuk Tanpa Aroma, Anda bisa lebih fokus pada ibadah tanpa terganggu oleh masalah laundry.
 
 Jadi, untuk perjalanan haji atau umroh Anda, pastikan membawa Alkholisi Deterjen Bubuk Tanpa Aroma, deterjen yang menjaga kebersihan pakaian Anda dan memberikan kenyamanan ekstra selama ibadah. Bersih, suci, dan penuh makna!
+
+[<img src="https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/SERVICE-icon.svg" alt="Get it on SERVICE" height="32" />](https://example.com/...)
