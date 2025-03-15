@@ -9,8 +9,7 @@ Alkholisi Deterjen Bubuk Tanpa Aroma hadir sebagai solusi cerdas untuk Anda yang
 
 Dengan formula yang efektif, Alkholisi Deterjen Bubuk mampu mengangkat kotoran dan noda pada pakaian dengan sempurna. Tidak hanya itu, keunggulan lain dari produk ini adalah aman digunakan pada berbagai jenis kain, termasuk pakaian ihram yang sering digunakan oleh jemaah haji dan umroh. Karena tanpa aroma tambahan, deterjen ini tidak akan mengubah wangi pakaian Anda, sehingga Anda tetap merasa nyaman dan bersih tanpa harus khawatir dengan bau yang bisa mengganggu.
 
-| Gambar 1 | Gambar 2|
-|----------|----------|
+
 | ![Image 1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gz6F4SAYhRQ7ZSr0DwXe3Cgzxcqd-xhiv0agTR_bR2Mu5CwY0R3R_dS4G8n_HfLdaf__8VffjT0YEHnxwJ25wQxzdG0wX2Csp4Wsbn55-37eiaHHmXO5EeFV3sYRMZVI6aPTLw-q_q4lFiE9Zi6GoPutB5HpNN47MvYAeUQQNJwNWDIc0ZhDXlIhTRE/s320/alkholisi-deterjen-bubuk-500g-haji-dan-umroh.jpg)   | ![Image 2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRIqV8nfpZ2AI6sgJbx_77ysNBgGRSbLiT7mA4KbBKN-Iw4mwP6MXn2otYH-6qLfDHXdte5QTm2CXVBja2d69UrDQO1GaU08HYfLVR6IdInXmiwyP1u3YyxW58XwGABKTzYWixc9R_nNzPHGj4sKoSfQr8RyoJow9o2tm2spC2j3sYTA0wJX-68lQw8RM/s320/alkholisi-deterjen-bubuk-500g-haji-dan-umroh-2.jpg)  |
  
 
