@@ -2,8 +2,6 @@
 
 Melaksanakan ibadah haji dan umroh adalah momen sakral yang tentu menjadi impian setiap umat Muslim. Dalam perjalanan spiritual ini, menjaga kebersihan tubuh dan pakaian sangat penting, apalagi di tempat yang penuh dengan kegiatan, seperti Masjidil Haram dan Arafah. Oleh karena itu, pemilihan deterjen yang tepat sangat berpengaruh dalam menjaga kesucian dan kenyamanan selama ibadah.
 
-![Plain Detergent Sabun Bubuk 500 Gram](https://blogger.googleusercontent.com/img/a/AVvXsEjtC3ECd4LpsPAbtfajyNGBscHWErItR0Qw9X-nAROj-JbwsJz4Qz9LCt8upKjeKx2uC5CbhF374nquv-tvr0-DTvFTPKpm2SMOCkMeydx37e5i_hNNrwEAoamkTyqoLK2vnyXKwb9kvRDnjNH1zNB3dU4mGRed9DSdwK0l2G7Ib1KvHAGVibJRXcRub7aq)
-
 <br>
 
 <div align = center>
