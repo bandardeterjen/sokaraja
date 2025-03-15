@@ -10,15 +10,6 @@ Melaksanakan ibadah haji dan umroh adalah momen sakral yang tentu menjadi impian
 
 <br>
 <br>
-    
-<!---------------------------------[ Bagian Single Image ]---------------------------------->
-
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-
-[License]: LICENSE
-[Shield]: Types/Shield.md
-[KBD]: Types/KBD.md
-[#]: #
 </div>
 
 Alkholisi Deterjen Bubuk Tanpa Aroma hadir sebagai solusi cerdas untuk Anda yang ingin memastikan pakaian tetap bersih tanpa khawatir akan aroma yang mengganggu. Deterjen ini dirancang khusus tanpa pewangi tambahan, menjadikannya pilihan ideal bagi jemaah haji dan umroh yang membutuhkan kebersihan maksimal tanpa mengganggu kekhusyukan ibadah.
@@ -49,6 +40,14 @@ Belanja Di Sini
 <br>
 <br>
     
+<!---------------------------------[ Bagian Single Image ]---------------------------------->
+
+[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
+
+[License]: LICENSE
+[Shield]: Types/Shield.md
+[KBD]: Types/KBD.md
+[#]: #
 
 <!---------------------------------[ Bagian Logo dan Link ]---------------------------------->
 
