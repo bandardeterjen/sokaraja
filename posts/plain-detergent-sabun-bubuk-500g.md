@@ -58,6 +58,6 @@ Jadi, untuk perjalanan haji atau umroh Anda, pastikan membawa Alkholisi Deterjen
 
 <!---------------------------------[ Badges ]---------------------------------->
 
-[Badge License]: https://img.shields.io/badge/-BY_SA_4.0-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
-[Badge Likes]: https://img.shields.io/github/stars/MarkedDown/Buttons?style=for-the-badge&labelColor=d0ab23&color=b0901e&logoColor=white&logo=Trustpilot
+[Badge License]: https://www.cdnlogo.com/logos/t/96/tokopedia.svg
+[Badge Likes]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Shopee.svg/1200px-Shopee.svg.png
 
