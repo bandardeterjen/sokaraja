@@ -32,14 +32,10 @@ Jadi, untuk perjalanan haji atau umroh Anda, pastikan membawa Alkholisi Deterjen
 <br>
 <br>
     
-<!---------------------------------------------------------------------------->
-
-[Tokped]: https://tokopedia.com
-[Shopee]: https://shopee.co.id
-
-
-<!---------------------------------[ Badges Logo ]---------------------------------->
+<!---------------------------------[ Bagian Logo dan Link ]---------------------------------->
 
 [Alkholisi Link Tokopedia]: https://www.cdnlogo.com/logos/t/96/tokopedia.svg
 [Alkholisi Link Shopee]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Shopee.svg/1200px-Shopee.svg.png
+[Tokped]: https://tokopedia.com
+[Shopee]: https://shopee.co.id
 
