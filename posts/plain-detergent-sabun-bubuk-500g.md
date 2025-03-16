@@ -41,6 +41,7 @@ Jadi, untuk perjalanan haji atau umroh Anda, pastikan membawa Alkholisi Deterjen
 - **Berat kemasan** : 700 gram
 - **Tokopedia** : https://tokopedia.link/HEyonWYZTQb
 - **Shopee** : https://shopee.co.id/laundrypedia
+- **Whatsapp** : https://wa.me/6285773009666
   
 > [!NOTE]
 > Harga sewaktu-waktu bisa berubah tanpa pemberitahuan terlebih dahulu.
