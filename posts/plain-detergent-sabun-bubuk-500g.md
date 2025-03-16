@@ -51,13 +51,13 @@ Jadi, untuk perjalanan haji atau umroh Anda, pastikan membawa Alkholisi Deterjen
 <!---------------------------------[ Bagian Single Image ]---------------------------------->
 
 [Button SI]: https://blogger.googleusercontent.com/img/a/AVvXsEjtC3ECd4LpsPAbtfajyNGBscHWErItR0Qw9X-nAROj-JbwsJz4Qz9LCt8upKjeKx2uC5CbhF374nquv-tvr0-DTvFTPKpm2SMOCkMeydx37e5i_hNNrwEAoamkTyqoLK2vnyXKwb9kvRDnjNH1zNB3dU4mGRed9DSdwK0l2G7Ib1KvHAGVibJRXcRub7aq
-[Link SI]: #belanja-di-sini
+[Link SI]: #
 
 <!---------------------------------[ Bagian Table Image ]---------------------------------->
 [Button 1 TI]: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gz6F4SAYhRQ7ZSr0DwXe3Cgzxcqd-xhiv0agTR_bR2Mu5CwY0R3R_dS4G8n_HfLdaf__8VffjT0YEHnxwJ25wQxzdG0wX2Csp4Wsbn55-37eiaHHmXO5EeFV3sYRMZVI6aPTLw-q_q4lFiE9Zi6GoPutB5HpNN47MvYAeUQQNJwNWDIc0ZhDXlIhTRE/s320/alkholisi-deterjen-bubuk-500g-haji-dan-umroh.jpg
-[Link 1 TI]: #belanja-di-sini
+[Link 1 TI]: #
 [Button 2 TI]: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRIqV8nfpZ2AI6sgJbx_77ysNBgGRSbLiT7mA4KbBKN-Iw4mwP6MXn2otYH-6qLfDHXdte5QTm2CXVBja2d69UrDQO1GaU08HYfLVR6IdInXmiwyP1u3YyxW58XwGABKTzYWixc9R_nNzPHGj4sKoSfQr8RyoJow9o2tm2spC2j3sYTA0wJX-68lQw8RM/s320/alkholisi-deterjen-bubuk-500g-haji-dan-umroh-2.jpg
-[Link 2 TI]: #belanja-di-sini
+[Link 2 TI]: #
 
 
 <!---------------------------------[ Bagian Logo dan Link ]---------------------------------->
