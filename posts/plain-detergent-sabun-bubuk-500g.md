@@ -33,20 +33,17 @@ Selain itu, produk ini juga hemat digunakan, karena dosisnya yang pas untuk kebu
 
 Jadi, untuk perjalanan haji atau umroh Anda, pastikan membawa Alkholisi Deterjen Bubuk Tanpa Aroma, deterjen yang menjaga kebersihan pakaian Anda dan memberikan kenyamanan ekstra selama ibadah. Bersih, suci, dan penuh makna!
 
-<!---------------------------------[ Bagian Marketplace ]---------------------------------->
-
-
-<br>
-
-<div align = center>
-
-### Belanja Di Sini
-
-[![Alkholisi Link Tokopedia]][Tokped]   
-[![Alkholisi Link Shopee]][Shopee]
-
-<br>
-<br>
+- **Kemasan** : plastik
+- **Bentuk** : bubuk tanpa aroma
+- **Isi** : 500 gram
+- **Harga** : Rp 8000
+- **_Packing_** :  _bubble wrap_
+- **Berat kemasan** : 700 gram
+- **Tokopedia** : https://tokopedia.link/HEyonWYZTQb
+- **Shopee** : https://shopee.co.id/laundrypedia
+  
+> [!NOTE]
+> Harga sewaktu-waktu bisa berubah tanpa pemberitahuan terlebih dahulu.
     
 <!---------------------------------[ Bagian Single Image ]---------------------------------->
 
@@ -58,12 +55,3 @@ Jadi, untuk perjalanan haji atau umroh Anda, pastikan membawa Alkholisi Deterjen
 [Link 1 TI]: #
 [Button 2 TI]: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRIqV8nfpZ2AI6sgJbx_77ysNBgGRSbLiT7mA4KbBKN-Iw4mwP6MXn2otYH-6qLfDHXdte5QTm2CXVBja2d69UrDQO1GaU08HYfLVR6IdInXmiwyP1u3YyxW58XwGABKTzYWixc9R_nNzPHGj4sKoSfQr8RyoJow9o2tm2spC2j3sYTA0wJX-68lQw8RM/s320/alkholisi-deterjen-bubuk-500g-haji-dan-umroh-2.jpg
 [Link 2 TI]: #
-
-
-<!---------------------------------[ Bagian Logo dan Link ]---------------------------------->
-
-[Alkholisi Link Tokopedia]: https://www.cdnlogo.com/logos/t/96/tokopedia.svg
-[Alkholisi Link Shopee]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Shopee.svg/1200px-Shopee.svg.png
-[Tokped]: https://www.tokopedia.com/lapaklaundry/alkholisi-deterjen-bubuk-500-gr-tanpa-aroma-pilihan-tepat-untuk-haji-dan-umroh-1730937869132072480
-[Shopee]: https://shopee.co.id/product/96503208/27627947538/
-</div>
