@@ -45,7 +45,7 @@ Jadi, untuk perjalanan haji atau umroh Anda, pastikan membawa Alkholisi Deterjen
 > [!NOTE]
 > Harga sewaktu-waktu bisa berubah tanpa pemberitahuan terlebih dahulu.
 
-| :memo:        | Harga sewaktu-waktu bisa berubah tanpa pemberitahuan terlebih dahulu.      |
+| ℹ️        | Harga sewaktu-waktu bisa berubah tanpa pemberitahuan terlebih dahulu.      |
 |---------------|:------------------------|
 
     
