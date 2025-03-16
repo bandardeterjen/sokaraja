@@ -60,6 +60,7 @@ Dengan demikian, Alkholisi Plain Detergent Sabun Cair adalah pilihan tepat untuk
 - **Berat kemasan** : 1300 gram
 - **Tokopedia** : https://tokopedia.link/HEyonWYZTQb
 - **Shopee** : https://shopee.co.id/laundrypedia
+- **Whatsapp** : https://wa.me/6285773009666
   
 > [!NOTE]
 > Harga sewaktu-waktu bisa berubah tanpa pemberitahuan terlebih dahulu.
