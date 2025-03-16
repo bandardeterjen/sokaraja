@@ -3,24 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>085773009666 Plain Detergent Sabun Haji Dan Umroh Tanpa Aroma Di Jakarta Dan Purwokerto</title>
-  <link rel="stylesheet" href="/alkholisi/styles.css">
+  <title>085773009666 Klenzo Deterjen Di Jakarta dan Purwokerto</title>
+  <link rel="stylesheet" href="/klenzo/styles.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
   <div id="header"></div>
   
-  <div class="content">
-    <h1><script type='text/javascript'>// <![CDATA[
-var h=(new Date()).getHours();
-var m=(new Date()).getMinutes();
-var s=(new Date()).getSeconds();
- if (h > 3 && h <  12) document.writeln("صباح الخير");
- if (h > 11 && h <  18) document.writeln("أهلاً بك");
- if (h > 17 && h <  24) document. writeln("مساء الخير");
- if (h > 23 || h <  4 ) document. writeln("مساء الخير" );
-// ]]></script>
-</h1>
     <div id="post-list" class="post-list"></div>
     <div id="pagination" class="pagination"></div>
   </div>
@@ -47,9 +36,9 @@ var s=(new Date()).getSeconds();
     }
 
     Promise.all([
-      loadElement('/alkholisi/header.html', 'header'),
-      loadElement('/alkholisi/footer.html', 'footer'),
-      fetch('/alkholisi/posts.json').then(response => response.json())
+      loadElement('/klenzo/header.html', 'header'),
+      loadElement('/klenzo/footer.html', 'footer'),
+      fetch('/klenzo/posts.json').then(response => response.json())
     ]).then(([_, __, posts]) => {
       document.getElementById('year').textContent = new Date().getFullYear();
 
