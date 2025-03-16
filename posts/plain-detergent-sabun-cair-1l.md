@@ -2,6 +2,17 @@
 
 Bagi Anda yang akan melakukan ibadah haji atau umroh, pasti ingin memastikan bahwa semua persiapan telah dilakukan dengan baik, termasuk memilih sabun yang aman dan sehat untuk membersihkan pakaian. Alkholisi Plain Detergent Sabun Cair adalah pilihan tepat untuk Anda.
 
+<br>
+
+<div align = center>
+    
+[![Button SI]][Link SI]
+
+<br>
+<br>
+</div>
+
+
 Alkholisi Plain Detergent Sabun Cair adalah sabun cair yang dirancang khusus untuk membersihkan pakaian yang digunakan untuk keperluan haji dan umroh. Sabun ini dibuat tanpa pewangi, tanpa pewarna, tanpa alkohol, dan tanpa mengandung formalin, sehingga aman digunakan untuk pakaian yang sensitif.
 
 
@@ -15,7 +26,17 @@ Berikut adalah beberapa kelebihan Alkholisi Plain Detergent Sabun Cair:
 
 - *Tidak Menyebabkan Iritasi*: Alkholisi Plain Detergent Sabun Cair tidak menyebabkan iritasi pada kulit, sehingga aman digunakan untuk pakaian yang akan digunakan oleh orang yang memiliki kulit sensitif.
 
+<br>
 
+<div align = center>
+
+| Gambar 1 | Gambar 2|
+|----------|----------|
+| [![Button 1 TI]][Link 1 TI]   | [![Button 2 TI]][Link 2 TI]  |
+
+<br>
+<br>
+</div>
 
 
 ### Manfaat Alkholisi Plain Detergent Sabun Cair untuk Haji dan Umroh
