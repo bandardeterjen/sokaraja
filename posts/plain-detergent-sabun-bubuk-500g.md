@@ -64,6 +64,6 @@ Jadi, untuk perjalanan haji atau umroh Anda, pastikan membawa Alkholisi Deterjen
 
 [Alkholisi Link Tokopedia]: https://www.cdnlogo.com/logos/t/96/tokopedia.svg
 [Alkholisi Link Shopee]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Shopee.svg/1200px-Shopee.svg.png
-[Tokped]: https://tokopedia.com
-[Shopee]: https://shopee.co.id
+[Tokped]: https://www.tokopedia.com/lapaklaundry/alkholisi-deterjen-bubuk-500-gr-tanpa-aroma-pilihan-tepat-untuk-haji-dan-umroh-1730937869132072480
+[Shopee]: https://shopee.co.id/product/96503208/27627947538/
 </div>
