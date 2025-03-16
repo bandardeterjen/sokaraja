@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>085773009666 Klenzo Deterjen Di Jakarta dan Purwokerto</title>
-  <link rel="stylesheet" href="/klenzo/styles.css">
+  <title>085773009666 Sokaraja Deterjen Parfum Laundry Di Jakarta dan Purwokerto</title>
+  <link rel="stylesheet" href="/sokaraja/styles.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
@@ -36,9 +36,9 @@
     }
 
     Promise.all([
-      loadElement('/klenzo/header.html', 'header'),
-      loadElement('/klenzo/footer.html', 'footer'),
-      fetch('/klenzo/posts.json').then(response => response.json())
+      loadElement('/sokaraja/header.html', 'header'),
+      loadElement('/sokaraja/footer.html', 'footer'),
+      fetch('/sokaraja/posts.json').then(response => response.json())
     ]).then(([_, __, posts]) => {
       document.getElementById('year').textContent = new Date().getFullYear();
 
